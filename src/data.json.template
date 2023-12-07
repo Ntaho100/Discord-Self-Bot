@@ -1,0 +1,21 @@
+{
+    "richPresenceEnabled": false,
+    "richpresenceData": {
+        "application": "355326429178757131",
+        "name": "Discord-Self-Bot",
+        "type": "PLAYING",
+        "details": "Made by Favna",
+        "state": "https://selfbot.favna.xyz",
+        "timestamp": true,
+        "largeImage": "379734851206512640",
+        "smallImage": "379734813751377921",
+        "largeText": "See the website",
+        "smallText": "Or the GitHub",
+        "url": "",
+        "partySize": {
+            "current": 1,
+            "max": 1
+        }
+    },
+    "webhookNotifiers": false
+}
